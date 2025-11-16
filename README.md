@@ -1,4 +1,4 @@
-# Phase 2 Proof of Concept — Data Structures & Recommender System
+# Phase 2 Proof of Concept - Data Structures & Recommender System
 
 The implementation demonstrates the foundational components of an e-commerce recommendation system using custom-built data structures.
 
